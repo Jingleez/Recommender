@@ -1,0 +1,75 @@
+Tiffany
+The Hobbit
+5
+Tiffany
+Harry Potter Series
+5
+Tiffany
+The Lord of the Rings
+5
+Tiffany
+To Kill a Mockingbird
+4
+Tiffany
+The Hitchhiker's Guide To The Galaxy
+4
+Bob
+The Hobbit
+5
+Bob
+Harry Potter Series
+5
+Bob
+Hatchet
+4
+Bob
+Life of Pi
+1
+Bob
+The Great Gatsby
+1
+Kalid
+The Da Vinci Code
+3
+Kalid
+The Golden Compass
+3
+Kalid
+The War Of The Worlds
+3
+Kalid
+Twilight Series
+1
+Kalid
+Flowers For Algernon
+3
+Suelyn
+The Princess Diaries
+2
+Suelyn
+Eragon
+3
+Suelyn
+Inkheart
+3
+Suelyn
+The Chrysalids
+3
+Suelyn
+The Lion the Witch and the Wardrobe
+5
+Tom
+The Princess Bride
+5
+Tom
+The Sisterhood of the Travelling Pants
+5
+Tom
+Ender's Game
+5
+Tom
+Naruto
+5
+Tom
+Bone Series
+5
