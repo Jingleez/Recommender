@@ -26,3 +26,18 @@ This project demonstrates the use of object-oriented programming principles, eff
    - Calculates and displays average ratings for each book, sorted in descending order of ratings.
 
 ---
+
+## Example Input File
+The input file should contain user ratings in the following format:
+Each record consists of three lines:
+1. **User Name**
+2. **Book Title**
+3. **Rating** (integer)
+
+---
+
+## Usage
+### Compile and Run
+To compile the program:
+
+** g++ -o BookRecommender main.cpp BookRecommender.cpp**
